@@ -5,6 +5,6 @@
 
 ---
 
-2022-03-27
-Version 1.0
-FreeCAD v0.19.4
+- Version: 1.0
+- Date Updated: 2022-03-27
+- FreeCAD Version: 0.19.4
