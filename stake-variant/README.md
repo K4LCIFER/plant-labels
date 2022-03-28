@@ -5,13 +5,15 @@
 
 ---
 
-# Directory Guide
+## Directory Guide
 
 - [Technical Drawing(s)](./drawings)
 - [Model file(s) (STL, and STEP)](./model-files)
 - [FreeCAD Project File(s)](./project-files)
 
 ---
+
+## Project Information
 
 - Version: 1.0
 - Date Updated: 2022-03-27
