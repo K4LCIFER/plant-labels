@@ -10,7 +10,8 @@ biodegradeable), so I created this simple project.
 
 ## Repository Information
 
-This repository contains CAD files for various plant labels variants:
+This repository currently contains CAD files for the following plant label 
+variants:
 - [Stake Variant](./stake-variant)
 
 Within each variant's subdirectory there are folders containing the CAD project 
